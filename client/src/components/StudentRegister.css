@@ -1,0 +1,47 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:skyblue; /* Set your desired background color here */
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: skyblue;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  input[type="email"],
+  input[type="password"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  

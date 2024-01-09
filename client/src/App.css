@@ -1,0 +1,40 @@
+.container {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 20px;
+  color:white;
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+ /* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); /* set the background color with an alpha value of 0.8 */
+}
+.container a{
+  color:white;
+  text-decoration: none;
+}
+/* .navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color:skyblue;
+  z-index: 1;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.nav-links a {
+  display: inline-block;
+  margin-right: 25px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 16px;
+} */
+
+
+/* 
+the rest of your styles here */
