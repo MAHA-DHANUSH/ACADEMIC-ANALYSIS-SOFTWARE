@@ -7,8 +7,8 @@ const multer = require('multer');
 const Marks=require("../models/marksModel")
 const Staff=require("../models/staffModel")
 const twilio = require('twilio');
-const accountSid = 'AC83137434b6a8d030be6a7248eca77012';
-const authToken = 'a1450516ea990e16fafb6621d161ae8b';
+const accountSid = 'AC83137434b6a8d030be6a7xxxxxxx';
+const authToken = 'a1450516ea990e16fafb6621xxxxxxx';
 const client = new twilio(accountSid, authToken);
 
 router.get('/', (req, res) => {
