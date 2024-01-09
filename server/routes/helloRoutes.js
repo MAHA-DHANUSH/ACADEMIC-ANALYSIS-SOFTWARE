@@ -125,8 +125,8 @@ await marks.save();
         const transporter = nodemailer.createTransport({
           service: 'gmail',
           auth: {
-            user: 'dhanushpoy@gmail.com',
-            pass: 'dzyd fjyb jnwi aper'
+            user: 'xxxxxxxx@gmail.com',
+            pass: 'xxxx xxxx xxxx xxxx'
           }
         });
         
